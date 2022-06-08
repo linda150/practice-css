@@ -1,0 +1,15 @@
+.curriculum {
+  display: flex;
+  padding: 20px;
+  gap: 10px;
+}
+.personal_data {
+  background-color: rgba(44, 44, 44, 0.781);
+  width: 40%;
+}
+
+.profile {
+  background-color: rgb(255, 189, 82);
+  padding: 30px;
+  width: 60%;
+}
